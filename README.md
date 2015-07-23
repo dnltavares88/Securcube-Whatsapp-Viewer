@@ -21,5 +21,10 @@ Other databases are not supported yet
 
 If you want to extract whatsapp 'key' file or have a full backup (with all databases) from android devices you might be interested on [our android tool](https://github.com/securcubemassimo/Securcube-Android-Tools)
 
+Prerequisites:
+ 1. O.S Windows Vista / 7 / 8 / 8.1 / 10
+ 2. [Microsoft .NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
+
+[Download latest version](https://github.com/Securcube/Securcube-Whatsapp-Viewer/releases)
 
 Powered by [Securcube](http://securcube.net/)
